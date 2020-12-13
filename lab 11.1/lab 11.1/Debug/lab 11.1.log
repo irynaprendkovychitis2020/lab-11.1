@@ -1,0 +1,6 @@
+﻿  lab 11.1.cpp
+C:\Users\computer\Desktop\лаби ап\лаб 11\lab 11.1\lab 11.1\lab 11.1\lab 11.1.cpp(42,24): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\computer\Desktop\лаби ап\лаб 11\lab 11.1\lab 11.1\lab 11.1\lab 11.1.cpp(65,23): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\computer\Desktop\лаби ап\лаб 11\lab 11.1\lab 11.1\lab 11.1\lab 11.1.cpp(90,12): warning C4101: avgOdd: неиспользованная локальная переменная
+C:\Users\computer\Desktop\лаби ап\лаб 11\lab 11.1\lab 11.1\lab 11.1\lab 11.1.cpp(90,20): warning C4101: avgEven: неиспользованная локальная переменная
+  lab 11.1.vcxproj -> C:\Users\computer\Desktop\лаби ап\лаб 11\lab 11.1\lab 11.1\Debug\lab 11.1.exe
